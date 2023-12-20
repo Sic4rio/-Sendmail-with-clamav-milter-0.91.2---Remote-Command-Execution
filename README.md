@@ -28,7 +28,7 @@ This Python script exploits a vulnerability in the Clam AntiVirus suite 'clamav-
 
 - **Module Name**: clamav-milter Remote Code Execution
 - **Author**: Patrick x Sic4rio
-- **License**: MSF_LICENSE
+- **License**: MIT_LICENSE
 - **Version**: $Revision: 10617 $
 - **Disclosure Date**: Aug 24 2007
 
